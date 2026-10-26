@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.idea/
+.vscode/
+Thumbs.db
+*.zip
+*.log
+
+# large files
+*.h5
+*.pt
+*.pkl

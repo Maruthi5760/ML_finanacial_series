@@ -1,0 +1,16 @@
+# Core ML
+torch
+scikit-learn
+statsmodels
+
+# Data & Signal Processing
+pandas
+numpy
+yfinance
+pandas_ta
+#vmd-py
+
+# Visualization & App
+streamlit
+plotly
+matplotlib
