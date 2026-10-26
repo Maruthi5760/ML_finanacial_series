@@ -8,6 +8,7 @@ pandas
 numpy
 yfinance
 pandas_ta
+tsai
 #vmd-py
 
 # Visualization & App
